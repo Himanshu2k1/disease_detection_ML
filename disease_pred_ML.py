@@ -7,6 +7,11 @@ Created on Fri May  5 16:46:16 2023
 """
 import pickle
 import streamlit as st
+
+import sys
+
+sys.path.insert(1, "/Users/himanshusharma/anaconda3/envs/himanshu_1101/lib/python3.10/site-packages/streamlit_option_menu/__init__.py")
+
 from streamlit_option_menu import option_menu
 
 
