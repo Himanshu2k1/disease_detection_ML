@@ -10,7 +10,7 @@ import streamlit as st
 
 import sys
 
-sys.path.insert(1, "/Users/himanshusharma/anaconda3/envs/himanshu_1101/lib/python3.10/site-packages/streamlit_option_menu/__init__.py")
+sys.path.insert(1, "/Users/himanshusharma/anaconda3/envs/himanshu_1101/lib/python3.10/site-packages/streamlit_option_menu")
 
 from streamlit_option_menu import option_menu
 
